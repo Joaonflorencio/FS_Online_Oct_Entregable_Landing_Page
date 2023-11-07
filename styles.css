@@ -1,0 +1,10 @@
+@media (max-width: 480px) {
+    .navbar {
+        background-color: green;
+    }
+}
+@media (max-width: 768px) {
+    .navbar {
+        display: none;
+        flex-direction: column; }
+    }
